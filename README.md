@@ -1,0 +1,3 @@
+
+This is a program designed to fix issues when Obsidian Canvas fails to open. Obsidian's canvas files are structured in JSON format, and sometimes, due to plugin conflicts, an extra comma is mistakenly added after the last item in an object, which causes an error that prevents the canvas from opening. Running this program will remove the misplaced comma to resolve the issue. If the problem persists even after running the program, try uninstalling, reinstalling, and re-enabling plugins, including Advanced Canvas.
+obsidian canvas가 열리지 않을때 해결하는 프로그램입니다. obsidian의 canvas는 json 문법으로 구성되어 있습니다. 이때 플러그인이 꼬여, 객체의 마지막 항목 뒤에도 붙지 말아야할 쉼표가 붙는경우 오류가 생겨 열리지 않습니다. 해당 프로그램을 실행하면 마지막 쉼표를 제거하여 해결합니다. 이 프로그램을 실행한 후에도 같은 현상이 반복된다면, advanced canvas를 포함한 플러그인을 삭제 후 재설치, 활성화 해보세요
